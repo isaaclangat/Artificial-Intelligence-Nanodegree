@@ -11,9 +11,11 @@ Built people counter application which demonstrates how to create a smart video 
 **Project 2: [Optimize Your Github Profile].
 ******************************
 
-**Project 3: [Smart Queuing System].(https://github.com/isaaclangat/Smart_Queuing_System/)**
+**Project 3: [Smart Queuing System](https://github.com/isaaclangat/Smart_Queuing_System/)**
 
 This is an Edge application that is designed to optimize queuing systems for 3 different real-world scenarios.
+
+
 **Project 3: [Computer Pointer Controller]**
 
 ******************************
