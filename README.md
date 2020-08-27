@@ -16,7 +16,7 @@ Built people counter application which demonstrates how to create a smart video 
 This is an Edge application that is designed to optimize queuing systems for 3 different real-world scenarios.
 
 
-**Project 3: [Computer Pointer Controller]**
+**Project 3: [Computer Pointer Controller](https://github.com/isaaclangat/Computer_Pointer_Controller/)**
 
 ******************************
 
