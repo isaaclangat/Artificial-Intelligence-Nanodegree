@@ -20,6 +20,6 @@ Thius is an application capable of moving the computer pointer using only the mo
 [Udacity](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
 
 ## Certificate of Completion
-![Alt text](https://confirm.udacity.com/XDQMNKNL
+https://confirm.udacity.com/XDQMNKNL
 
 
