@@ -15,7 +15,7 @@ This is an Edge application that is designed to optimize queuing systems for 3 d
 
 **Project 3: [Computer Pointer Controller](https://github.com/isaaclangat/Computer_Gaze_Controller/)**
 
-Thius is an application capable of moving the computer pointer using only the movement from the head and eyes.
+This is an application capable of moving the computer pointer using only the movement from the head and eyes.
 ## Course
 [Udacity](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
 
